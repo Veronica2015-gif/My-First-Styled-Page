@@ -1,0 +1,18 @@
+body {
+        background-color: pink;
+    }
+h1 {
+   color: white;
+   }
+p {
+color: purple;
+}
+.course{
+colour: blue;
+}
+main-course{
+color=blue;
+}
+p {
+color: green;
+}
